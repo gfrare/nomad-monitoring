@@ -1,1 +1,3 @@
 .vscode
+# Dashboard to exclude from provisioing
+grafana/dashboards/hashicorp-nomad.json
