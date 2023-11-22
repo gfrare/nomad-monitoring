@@ -488,7 +488,8 @@
   "style": "dark",
   "tags": [
     "nomad",
-    "nomad-allocs"
+    "nomad-allocs",
+    "provisioning"
   ],
   "templating": {
     "list": [

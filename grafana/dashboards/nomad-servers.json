@@ -2159,7 +2159,11 @@
   ],
   "schemaVersion": 37,
   "style": "dark",
-  "tags": [],
+  "tags": [
+    "nomad",
+    "nomad-servers",
+    "provisioning"
+  ],
   "templating": {
     "list": [
       {

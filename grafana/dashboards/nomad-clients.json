@@ -1092,7 +1092,8 @@
   "style": "dark",
   "tags": [
     "nomad",
-    "nomad-clients"
+    "nomad-clients",
+    "provisioning"
   ],
   "templating": {
     "list": [
